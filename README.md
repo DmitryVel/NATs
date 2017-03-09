@@ -2,7 +2,7 @@
 A Python script to identify noncoding Natural Antisense Transcripts (NATs) from AceView transcriptomic database.
 
 Usage:
-1) Download AciView GTF file from:
+1) Download AciView GTF file from:\n
 human: ftp://ftp.ncbi.nih.gov/repository/acedb/ncbi_37_Aug10.human.genes/AceView.ncbi_37.genes_gff.gff.gz
 mouse: ftp://ftp.ncbi.nih.gov/repository/acedb/ncbi_37_Sep07.mouse.genes/AceView.mm_37.genes_gff.tar.gz
 2) Untar the archive into the directory with the Python script.

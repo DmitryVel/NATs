@@ -13,7 +13,7 @@ mouse: ftp://ftp.ncbi.nih.gov/repository/acedb/ncbi_37_Sep07.mouse.genes/AceView
 
 3) Run the script and put "filter" when asked for mode. The script will filter and sort the GTF file.
 
-4) Prepare the list of genes of interest to look for NATs. The gene names have to be in a text format, one name per line.
+4) Prepare the list of genes of interest to look for NATs. The file should be in text format containing official gene symbols, one per line.
 
 5) Save the input file in the same folder with the script and the GTF file.
 

@@ -17,7 +17,7 @@ mouse: ftp://ftp.ncbi.nih.gov/repository/acedb/ncbi_37_Sep07.mouse.genes/AceView
 
 5) Save the input file in the same folder with the script and the GTF file.
 
-6) Run the script again, this type type in "find" when asked for mode.
+6) Run the script again, this time type type in "find" when asked for mode.
 
 7) Specify the reference GTF file (filtered and sorted) and the input file.
 
